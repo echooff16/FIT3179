@@ -1,0 +1,246 @@
+﻿Name,Criteria,Score,Total
+Australia,Stability,87,78
+Australia,Rights,95,78
+Australia,Health,87,78
+Australia,Safety,94,78
+Australia,Climate,90,78
+Australia,Costs,23,78
+Australia,Popularity,55,78
+Austria,Stability,83,71
+Austria,Rights,90,71
+Austria,Health,96,71
+Austria,Safety,99,71
+Austria,Climate,27,71
+Austria,Costs,38,71
+Austria,Popularity,60,71
+Belgium,Stability,72,64
+Belgium,Rights,88,64
+Belgium,Health,90,64
+Belgium,Safety,94,64
+Belgium,Climate,20,64
+Belgium,Costs,30,64
+Belgium,Popularity,55,64
+Brazil,Stability,47,51
+Brazil,Rights,44,51
+Brazil,Health,57,51
+Brazil,Safety,511,51
+Brazil,Climate,65,51
+Brazil,Costs,40,51
+Brazil,Popularity,40,51
+Brunei,Stability,80,76
+Brunei,Rights,70,76
+Brunei,Health,85,76
+Brunei,Safety,75,76
+Brunei,Climate,85,76
+Brunei,Costs,75,76
+Brunei,Popularity,65,76
+Canada,Stability,85,69
+Canada,Rights,93,69
+Canada,Health,79,69
+Canada,Safety,97,69
+Canada,Climate,33,69
+Canada,Costs,35,69
+Canada,Popularity,62,69
+China,Stability,69,58
+China,Rights,37,58
+China,Health,69,58
+China,Safety,83,58
+China,Climate,54,58
+China,Costs,38,58
+China,Popularity,75,58
+Cyprus,Stability,66,70
+Cyprus,Rights,67,70
+Cyprus,Health,77,70
+Cyprus,Safety,85,70
+Cyprus,Climate,75,70
+Cyprus,Costs,54,70
+Cyprus,Popularity,46,70
+Egypt,Stability,41,52
+Egypt,Rights,27,52
+Egypt,Health,40,52
+Egypt,Safety,75,52
+Egypt,Climate,40,52
+Egypt,Costs,27,52
+Egypt,Popularity,41,52
+Finland,Stability,85,70
+Finland,Rights,100,70
+Finland,Health,87,70
+Finland,Safety,96,70
+Finland,Climate,17,70
+Finland,Costs,45,70
+Finland,Popularity,52,70
+France,Stability,72,66
+France,Rights,85,66
+France,Health,91,66
+France,Safety,85,66
+France,Climate,41,66
+France,Costs,31,66
+France,Popularity,84,66
+Germany,Stability,84,71
+Germany,Rights,95,71
+Germany,Health,96,71
+Germany,Safety,96,71
+Germany,Climate,21,71
+Germany,Costs,45,71
+Germany,Popularity,64,71
+Ghana,Stability,47,52
+Ghana,Rights,49,52
+Ghana,Health,26,52
+Ghana,Safety,88,52
+Ghana,Climate,56,52
+Ghana,Costs,45,52
+Ghana,Popularity,29,52
+Greece,Stability,56,67
+Greece,Rights,63,67
+Greece,Health,87,67
+Greece,Safety,87,67
+Greece,Climate,70,67
+Greece,Costs,45,67
+Greece,Popularity,45,67
+Iceland,Stability,84,66
+Iceland,Rights,94,66
+Iceland,Health,87,66
+Iceland,Safety,100,66
+Iceland,Climate,7,66
+Iceland,Costs,37,66
+Iceland,Popularity,50,66
+India,Stability,55,51
+India,Rights,46,51
+India,Health,30,51
+India,Safety,68,51
+India,Climate,62,51
+India,Costs,45,51
+India,Popularity,27,51
+Ireland,Stability,83,63
+Ireland,Rights,93,63
+Ireland,Health,81,63
+Ireland,Safety,99,63
+Ireland,Climate,2,63
+Ireland,Costs,35,63
+Ireland,Popularity,54,63
+Iran,Stability,22,40
+Iran,Rights,13,40
+Iran,Health,54,40
+Iran,Safety,65,40
+Iran,Climate,58,40
+Iran,Costs,27,40
+Iran,Popularity,34,40
+Italy,Stability,65,66
+Italy,Rights,66,66
+Italy,Health,87,66
+Italy,Safety,91,66
+Italy,Climate,57,66
+Italy,Costs,32,66
+Italy,Popularity,65,66
+Japan,Stability,87,74
+Japan,Rights,88,74
+Japan,Health,92,74
+Japan,Safety,99,74
+Japan,Climate,54,74
+Japan,Costs,29,74
+Japan,Popularity,46,74
+Lebanon,Stability,14,47
+Lebanon,Rights,21,47
+Lebanon,Health,58,47
+Lebanon,Safety,68,47
+Lebanon,Climate,71,47
+Lebanon,Costs,46,47
+Lebanon,Popularity,9,47
+Malaysia,Stability,73,61
+Malaysia,Rights,56,61
+Malaysia,Health,58,61
+Malaysia,Safety,95,61
+Malaysia,Climate,44,61
+Malaysia,Costs,46,61
+Malaysia,Popularity,45,61
+New Zealand,Stability,90,70
+New Zealand,Rights,100,70
+New Zealand,Health,81,70
+New Zealand,Safety,97,70
+New Zealand,Climate,36,70
+New Zealand,Costs,28,70
+New Zealand,Popularity,56,70
+Philippines,Stability,54,50
+Philippines,Rights,38,50
+Philippines,Health,41,50
+Philippines,Safety,70,50
+Philippines,Climate,49,50
+Philippines,Costs,47,50
+Philippines,Popularity,37,50
+Poland,Stability,65,63
+Poland,Rights,65,63
+Poland,Health,75,63
+Poland,Safety,93,63
+Poland,Climate,27,63
+Poland,Costs,58,63
+Poland,Popularity,63,63
+Portugal,Stability,75,74
+Portugal,Rights,76,74
+Portugal,Health,82,74
+Portugal,Safety,99,74
+Portugal,Climate,71,74
+Portugal,Costs,46,74
+Portugal,Popularity,47,74
+Saudi Arabia,Stability,62,63
+Saudi Arabia,Rights,45,63
+Saudi Arabia,Health,64,63
+Saudi Arabia,Safety,76,63
+Saudi Arabia,Climate,55,63
+Saudi Arabia,Costs,76,63
+Saudi Arabia,Popularity,36,63
+Spain,Stability,65,72
+Spain,Rights,73,72
+Spain,Health,87,72
+Spain,Safety,92,72
+Spain,Climate,74,72
+Spain,Costs,42,72
+Spain,Popularity,84,72
+Sweden,Stability,86,70
+Sweden,Rights,100,70
+Sweden,Health,86,70
+Sweden,Safety,94,70
+Sweden,Climate,22,70
+Sweden,Costs,42,70
+Sweden,Popularity,61,70
+Switzerland,Stability,91,75
+Switzerland,Rights,99,75
+Switzerland,Health,93,75
+Switzerland,Safety,99,75
+Switzerland,Climate,35,75
+Switzerland,Costs,42,75
+Switzerland,Popularity,56,75
+Taiwan,Stability,73,80
+Taiwan,Rights,85,80
+Taiwan,Health,90,80
+Taiwan,Safety,90,80
+Taiwan,Climate,80,80
+Taiwan,Costs,70,80
+Taiwan,Popularity,70,80
+Turkey,Stability,34,58
+Turkey,Rights,35,58
+Turkey,Health,60,58
+Turkey,Safety,96,58
+Turkey,Climate,62,58
+Turkey,Costs,58,58
+Turkey,Popularity,43,58
+United Arab Emirates,Stability,84,71
+United Arab Emirates,Rights,64,71
+United Arab Emirates,Health,65,71
+United Arab Emirates,Safety,87,71
+United Arab Emirates,Climate,62,71
+United Arab Emirates,Costs,68,71
+United Arab Emirates,Popularity,46,71
+United Kingdom,Stability,75,60
+United Kingdom,Rights,90,60
+United Kingdom,Health,77,60
+United Kingdom,Safety,91,60
+United Kingdom,Climate,6,60
+United Kingdom,Costs,32,60
+United Kingdom,Popularity,60,60
+United States,Stability,67,64
+United States,Rights,83,64
+United States,Health,69,64
+United States,Safety,67,64
+United States,Climate,66,64
+United States,Costs,33,64
+United States,Popularity,87,64

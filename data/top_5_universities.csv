@@ -1,0 +1,208 @@
+Country,University,Rank,Total_Uni
+United States of America,Massachusetts Institute of Technology (MIT),1,83
+United Kingdom,University of Cambridge,2,49
+United Kingdom,University of Oxford,3,49
+United States of America,Harvard University,4,83
+United States of America,Stanford University,5,83
+United Kingdom,Imperial College London,6,49
+Switzerland,ETH Zurich - Swiss Federal Institute of Technology,7,9
+Singapore,National University of Singapore (NUS),8,3
+United Kingdom,UCL,9,49
+United States of America,"University of California, Berkeley (UCB)",10,83
+United States of America,University of Chicago,11,83
+Australia,The University of Melbourne,14,27
+China,Peking University,17,29
+Australia,The University of New South Wales (UNSW Sydney),19,27
+Australia,The University of Sydney,19,27
+Canada,University of Toronto,21,19
+United Kingdom,The University of Edinburgh,22,49
+France,Université PSL,24,16
+China,Tsinghua University,25,29
+Hong Kong,The University of Hong Kong,26,6
+Singapore,"Nanyang Technological University, Singapore (NTU)",26,3
+Japan,The University of Tokyo,28,15
+Canada,McGill University,30,19
+Australia,The Australian National University,34,27
+Canada,University of British Columbia,34,19
+Switzerland,EPFL,36,9
+Germany,Technical University of Munich,37,30
+France,Institut Polytechnique de Paris,38,16
+South Korea,Seoul National University,41,14
+Australia,Monash University,42,27
+China,Zhejiang University,44,29
+Japan,Kyoto University,46,15
+Hong Kong,The Chinese University of Hong Kong (CUHK),47,6
+Netherlands,Delft University of Technology,47,13
+China,Fudan University,50,29
+China,Shanghai Jiao Tong University,51,29
+Netherlands,University of Amsterdam,53,13
+Germany,Ludwig-Maximilians-Universität München,54,30
+South Korea,KAIST - Korea Advanced Institute of Science & Technology,56,14
+France,Sorbonne University,59,16
+Hong Kong,The Hong Kong University of Science and Technology,60,6
+Belgium,KU Leuven,61,7
+Hong Kong,The Hong Kong Polytechnic University,65,6
+Malaysia,Universiti Malaya (UM),65,8
+New Zealand,The University of Auckland,68,8
+Taiwan,National Taiwan University (NTU),69,7
+Hong Kong,City University of Hong Kong,70,6
+France,Université Paris-Saclay,71,16
+Sweden,KTH Royal Institute of Technology,73,8
+South Korea,Yonsei University,76,14
+South Korea,Korea University,79,14
+Japan,Osaka University,80,15
+Ireland,"Trinity College Dublin, The University of Dublin",81,6
+Brazil,Universidade de São Paulo,85,4
+Sweden,Lund University,85,8
+Germany,Ruprecht-Karls-Universität Heidelberg,87,30
+Russia,Lomonosov Moscow State University,87,11
+Japan,Tokyo Institute of Technology (Tokyo Tech),91,15
+Switzerland,University of Zurich,91,9
+Mexico,Universidad Nacional Autónoma de México (UNAM),93,2
+Argentina,Universidad de Buenos Aires (UBA),95,1
+Germany,Freie Universitaet Berlin,98,30
+South Korea,Pohang University of Science And Technology (POSTECH),100,14
+Chile,Pontificia Universidad Católica de Chile (UC),103,3
+Sweden,Uppsala University,105,8
+Germany,RWTH Aachen University,106,30
+Denmark,University of Copenhagen,107,5
+Netherlands,Utrecht University,107,13
+Finland,Aalto University,109,7
+Canada,University of Alberta,111,19
+Canada,University of Waterloo,112,19
+Japan,Tohoku University,113,15
+Finland,University of Helsinki,115,7
+Norway,University of Oslo,117,3
+Sweden,Stockholm University,118,8
+Denmark,Technical University of Denmark,121,5
+Italy,Politecnico di Milano,123,14
+Netherlands,Eindhoven University of Technology,124,13
+Switzerland,University of Basel,124,9
+Netherlands,Leiden University,126,13
+Switzerland,University of Bern,126,9
+Sweden,Chalmers University of Technology,129,8
+Austria,University of Vienna,130,5
+Italy,Sapienza University of Rome,134,14
+Malaysia,Universiti Sains Malaysia (USM),137,8
+Denmark,Aarhus University,143,5
+Saudi Arabia,King Abdulaziz University (KAU),143,3
+India,Indian Institute of Technology Bombay (IITB),149,11
+Spain,Universitat Autònoma de Barcelona,149,14
+Italy,Alma Mater Studiorum - University of Bologna,154,14
+Malaysia,Universiti Putra Malaysia (UPM),158,8
+Belgium,Ghent University,159,7
+Chile,Universidad de Chile,159,3
+Malaysia,Universiti Kebangsaan Malaysia (UKM),159,8
+Spain,Universitat de Barcelona,164,14
+Ireland,University College Dublin,171,6
+Spain,Complutense University of Madrid,171,14
+Qatar,Qatar University,173,2
+South Africa,University of Cape Town,173,5
+Belgium,Université catholique de Louvain (UCLouvain),180,7
+Saudi Arabia,King Fahd University of Petroleum & Minerals,180,3
+Austria,Technische Universität Wien,184,5
+France,École Normale Supérieure de Lyon,184,16
+Mexico,Tecnológico de Monterrey,184,2
+Malaysia,Universiti Teknologi Malaysia,188,8
+Belgium,Universite libre de Bruxelles,189,7
+India,Indian Institute of Technology Delhi (IITD),197,11
+Colombia,Universidad de los Andes,198,3
+Spain,Universidad Autónoma de Madrid,199,14
+Saudi Arabia,King Saud University,203,3
+New Zealand,University of Otago,206,8
+Thailand,Chulalongkorn University,211,2
+Israel,Tel Aviv University,215,4
+Taiwan,National Yang Ming Chiao Tung University,217,7
+Italy,Università di Padova,219,14
+Brazil,Universidade Estadual de Campinas (Unicamp),220,4
+India,Indian Institute of Science,225,11
+Colombia,Universidad Nacional de Colombia,226,3
+Lebanon,American University of Beirut (AUB),226,1
+Taiwan,National Cheng Kung University (NCKU),228,7
+Kazakhstan,Al-Farabi Kazakh National University,230,3
+UAE,Khalifa University of Science and Technology,230,4
+Taiwan,National Tsing Hua University,233,7
+Indonesia,Universitas Indonesia,237,5
+New Zealand,Massey University,239,8
+New Zealand,Victoria University of Wellington,241,8
+Belgium,University of Antwerp,248,7
+Czech Republic,Charles University,248,3
+New Zealand,University of Waikato,250,8
+Israel,The Hebrew University of Jerusalem,251,4
+Italy,Politecnico di Torino,252,14
+Portugal,University of Porto,253,5
+Macau,University of Macau,254,1
+Poland,University of Warsaw,262,2
+Indonesia,Gadjah Mada University,263,5
+South Africa,University of Witwatersrand,264,5
+Portugal,University of Lisbon,266,5
+India,Indian Institute of Technology Kharagpur (IIT-KGP),271,11
+India,Indian Institute of Technology Kanpur (IITK),278,11
+Spain,University of Navarra,280,14
+Indonesia,Bandung Institute of Technology (ITB),281,5
+Norway,University of Bergen,281,3
+South Africa,Stellenbosch University,283,5
+Ireland,University of Galway,289,6
+UAE,United Arab Emirates University,290,4
+Ireland,University College Cork,292,6
+Norway,Norwegian University of Science And Technology,292,3
+Poland,Jagiellonian University,304,2
+South Africa,University of Johannesburg,306,5
+Qatar,Hamad Bin Khalifa University,310,2
+Finland,University of Oulu,313,7
+Finland,University of Turku,315,7
+Pakistan,Quaid-i-Azam University,315,2
+Russia,Saint Petersburg State University,315,11
+Russia,Bauman Moscow State Technical University,319,11
+South Africa,University of Pretoria,323,5
+Denmark,University of Southern Denmark (SDU),326,5
+Iran,Sharif University of Technology,334,4
+Denmark,Aalborg University,336,5
+Peru,Pontificia Universidad Católica del Perú,336,1
+Turkey,Middle East Technical University,336,3
+Russia,RUDN University,342,11
+Portugal,University of Aveiro,344,5
+Indonesia,Airlangga University,345,5
+Colombia,Pontificia Universidad Javeriana,347,3
+Greece,National Technical University of Athens,347,2
+Finland,Lappeenranta-Lahti University of Technology LUT,351,7
+Portugal,University of Coimbra,351,5
+Kazakhstan,L.N. Gumilyov Eurasian National University (ENU),355,3
+Estonia,University of Tartu,358,1
+Iran,University of Tehran,360,4
+Austria,Universität Innsbruck,362,5
+UAE,American University of Sharjah,364,4
+Pakistan,National University of Sciences And Technology (NUST) Islamabad,367,2
+Cyprus,University of Cyprus (UCY),368,1
+Brazil,Universidade Federal do Rio de Janeiro,371,4
+Egypt,Cairo University,371,2
+Iran,Amirkabir University of Technology,375,4
+Luxembourg,University of Luxembourg,381,1
+Thailand,Mahidol University,382,2
+Belarus,Belarusian State University,387,1
+Brunei,Universiti Brunei Darussalam (UBD),387,1
+Taiwan,National Taiwan University of Science and Technology (Taiwan Tech),387,7
+Israel,Technion - Israel Institute of Technology,392,4
+Russia,Kazan (Volga region) Federal University,396,11
+Czech Republic,Masaryk University,400,3
+Portugal,Universidade Nova de Lisboa,400,5
+Philippines,University of the Philippines,404,1
+Turkey,Istanbul Technical University,404,3
+Chile,Universidad de Santiago de Chile (USACH),410,3
+Egypt,The American University in Cairo,415,2
+Brazil,UNESP,419,4
+Austria,Graz University of Technology,421,5
+Ireland,University of Limerick,426,6
+Singapore,Singapore University of Technology and Design,429,3
+Turkey,Koç University,431,3
+Greece,National and Kapodistrian University of Athens,444,2
+Austria,Johannes Kepler University Linz,446,5
+Iran,Iran University of Science and Technology,451,4
+Czech Republic,Czech Technical University in Prague,454,3
+Oman,Sultan Qaboos University,454,1
+UAE,University of Sharjah,465,4
+Israel,Ben-Gurion University of The Negev,469,4
+Lithuania,Vilnius University,473,1
+Kazakhstan,Satbayev University,481,3
+Indonesia,IPB University (a.k.a. Bogor Agricultural University),489,5
+Jordan,University of Jordan,498,1

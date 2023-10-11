@@ -1,0 +1,118 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 900,
+  "height": 400,
+  "background": "#f7f8f9",
+  "title": "Total number of International Students",
+  "data": {
+    "url": "https://raw.githubusercontent.com/echooff16/FIT3179/main/data/main_data_2.0.csv"
+  },
+  "params": [
+    {
+      "name": "Country_selection",
+      "value": "Australia",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Australia",
+          "Austria",
+          "Belgium",
+          "Brazil",
+          "Brunei Darussalam",
+          "Canada",
+          "China",
+          "Cyprus",
+          "Egypt",
+          "Finland",
+          "France",
+          "Germany",
+          "Ghana",
+          "Greece",
+          "Iceland",
+          "India",
+          "Iran",
+          "Ireland",
+          "Italy",
+          "Japan",
+          "Lebanon",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Poland",
+          "Portugal",
+          "Saudi Arabia",
+          "Spain",
+          "Sweden",
+          "Switzerland",
+          "Taiwan",
+          "Turkey",
+          "United Arab Emirates",
+          "United Kingdom",
+          "United States"
+        ],
+        "labels": [
+          "Australia",
+          "Austria",
+          "Belgium",
+          "Brazil",
+          "Brunei Darussalam",
+          "Canada",
+          "China",
+          "Cyprus",
+          "Egypt",
+          "Finland",
+          "France",
+          "Germany",
+          "Ghana",
+          "Greece",
+          "Iceland",
+          "India",
+          "Iran",
+          "Ireland",
+          "Italy",
+          "Japan",
+          "Lebanon",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Poland",
+          "Portugal",
+          "Saudi Arabia",
+          "Spain",
+          "Sweden",
+          "Switzerland",
+          "Taiwan",
+          "Turkey",
+          "United Arab Emirates",
+          "United Kingdom",
+          "United States"
+        ],
+        "name": "Country Selection"
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Country_selection == null || datum.Location == Country_selection"
+    }
+  ],
+  "mark": {"type": "bar", "color": "#e21e2d"},
+  "encoding": {
+    "x": {"field": "Name", "type": "nominal", "title": "University Names"},
+    "y": {
+      "field": "No_of_students",
+      "type": "quantitative",
+      "title": "Number of Students"
+    },
+    "tooltip": [
+      {"field": "Location", "title": "Country"},
+      {"field": "Rank", "title": "Rank"},
+      {"field": "Intl_stud_num", "title": "International Students"},
+      {"field": "Teaching_Score", "title": "Teaching Score"},
+      {"field": "Research_Score", "title": "Research Score"},
+      {"field": "Citations_Score", "title": "Citation Score"},
+      {"field": "Industry_Income_Score", "title": "Industry Income Score"},
+      {"field": "OverAll_Score", "title": "Overall Score"}
+    ]
+  }
+}

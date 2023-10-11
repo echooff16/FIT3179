@@ -1,0 +1,108 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 900,
+  "height": 400,
+ 
+  "title": "Country Comparison",
+  "data": {
+    "url": "https://raw.githubusercontent.com/echooff16/FIT3179/main/data/country_comparison.csv"
+  },
+  "params": [
+    {
+      "name": "Country_selection",
+      "value": "Australia",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Australia",
+          "Austria",
+          "Belgium",
+          "Brazil",
+          "Brunei",
+          "Canada",
+          "China",
+          "Cyprus",
+          "Egypt",
+          "Finland",
+          "France",
+          "Germany",
+          "Ghana",
+          "Greece",
+          "Iceland",
+          "India",
+          "Iran",
+          "Ireland",
+          "Italy",
+          "Japan",
+          "Lebanon",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Poland",
+          "Portugal",
+          "Saudi Arabia",
+          "Spain",
+          "Sweden",
+          "Switzerland",
+          "Taiwan",
+          "Turkey",
+          "United Arab Emirates",
+          "United Kingdom",
+          "United States"
+        ],
+        "labels": [
+          "Australia",
+          "Austria",
+          "Belgium",
+          "Brazil",
+          "Brunei",
+          "Canada",
+          "China",
+          "Cyprus",
+          "Egypt",
+          "Finland",
+          "France",
+          "Germany",
+          "Ghana",
+          "Greece",
+          "Iceland",
+          "India",
+          "Iran",
+          "Ireland",
+          "Italy",
+          "Japan",
+          "Lebanon",
+          "Malaysia",
+          "New Zealand",
+          "Philippines",
+          "Poland",
+          "Portugal",
+          "Saudi Arabia",
+          "Spain",
+          "Sweden",
+          "Switzerland",
+          "Taiwan",
+          "Turkey",
+          "United Arab Emirates",
+          "United Kingdom",
+          "United States"
+        ],
+        "name": "Country Selection"
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Country_selection == null || datum.Name == Country_selection"
+    }
+  ],
+  "mark": {"type": "bar", "color": "#3a6af9"},
+  "encoding": {
+    "y": {"field": "Criteria", "type": "nominal", "title": "Criteria"},
+    "x": {
+      "field": "Score",
+      "type": "quantitative",
+      "title": "Score"
+    }
+  }
+}

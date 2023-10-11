@@ -1,0 +1,208 @@
+Country,Number_of_Universities,Name
+Argentina,1,Universidad de Buenos Aires (UBA)
+Australia,27,"The University of Melbourne, 
+The University of New South Wales (UNSW Sydney),
+The University of Sydney ,
+The Australian National University,
+Monash University"
+Austria,5,"University of Vienna, 
+Technische University Wien, 
+Universit Innsbruck, 
+Graz University of Technology,
+Johannes Kepler University Linz"
+Belarus,1,Belarusian State University 
+Belgium,7,"KU Leuven,
+Ghent University,
+Universit  catholique de Louvain (UCLouvain),
+Universite libre de Bruxelles,
+University of Antwerp "
+Brazil,4,"Universidade de Sao Paulo
+Universidade Estadual de Campinas (Unicamp) 
+Universidade Federal do Rio de Janeiro
+UNESP (Rank: 419)"
+Brunei,1,Universiti Brunei Darussalam (UBD)
+Canada,19,"University of Toronto,
+McGill University,
+University of British Columbia,
+University of Alberta,
+University of Waterloo"
+Chile,3,"Pontificia Universidad Cat lica de Chile (UC), 
+Universidad de Chile,
+Universidad de Santiago de Chile (USACH)"
+China,29,"Peking University,
+Tsinghua University,
+Zhejiang University
+Fudan University
+Shanghai Jiao Tong University "
+Colombia,3,"Universidad de los Andes,
+Universidad Nacional de Colombia, 
+Pontificia Universidad Javeriana "
+Cyprus,1,University of Cyprus (UCY) 
+Czech Republic,3,"Charles University,
+Masaryk University,
+Czech Technical University in Prague "
+Denmark,5,"University of Copenhagen,
+Technical University of Denmark,
+Aarhus University, 
+University of Southern Denmark (SDU), 
+Aalborg University "
+Egypt,2,"Cairo University, 
+The American University in Cairo,"
+Estonia,1,University of Tartu
+Finland,7,"Aalto University, 
+University of Helsinki, 
+University of Oulu,
+University of Turku, 
+Lappeenranta-Lahti University of Technology LUT "
+France,16,"Universite  PSL, 
+Institut Polytechnique de Paris,
+Sorbonne University,
+Universite  Paris-Saclay,
+Ecole Normale Supérieure de Lyon "
+Germany,30,"Technical University of Munich,
+Ludwig-Maximilians-Universitat Munchen,
+Ruprecht-Karls-Universitat Heidelberg,
+Freie Universitaet Berlin,
+RWTH Aachen University "
+Greece,2,"National Technical University of Athens,
+National and Kapodistrian University of Athens "
+Hong Kong,6,"The University of Hong Kong,
+The Chinese University of Hong Kong (CUHK) ,
+The Hong Kong University of Science and Technology ,
+The Hong Kong Polytechnic University ,
+City University of Hong Kong "
+India,11,"Indian Institute of Technology Bombay (IITB), 
+Indian Institute of Technology Delhi (IITD), 
+Indian Institute of Science, 
+Indian Institute of Technology Kharagpur, 
+Indian Institute of Technology Kanpur (IITK) "
+Indonesia,5,"Universitas Indonesia, 
+Gadjah Mada University,
+Bandung Institute of Technology (ITB),
+Airlangga University, 
+IPB University (a.k.a. Bogor Agricultural University)"
+Iran,4,"Sharif University of Technology, 
+University of Tehran,
+Amirkabir University of Technology, 
+Iran University of Science and Technology"
+Ireland,6,"Trinity College Dublin - The University of Dublin,
+University College Dublin,
+University of Galway,
+University College Cork,
+University of Limerick "
+Israel,4,"Tel Aviv University, 
+The Hebrew University of Jerusalem, 
+Technion - Israel Institute of Technology,
+Ben-Gurion University of The Negev"
+Italy,14,"Politecnico di Milano, 
+Sapienza University of Rome,
+Alma Mater Studiorum - University of Bologna ,
+Universit  di Padova, 
+Politecnico di Torino "
+Japan,15,"The University of Tokyo, 
+Kyoto University, 
+Osaka University, 
+Tokyo Institute of Technology (Tokyo Tech), 
+Tohoku University"
+Jordan,1,University of Jordan
+Kazakhstan,3,"Al-Farabi Kazakh National University,
+L.N. Gumilyov Eurasian National University (ENU),
+Satbayev University "
+Lebanon,1,American University of Beirut (AUB) 
+Lithuania,1,Vilnius University 
+Luxembourg,1,University of Luxembourg 
+Macau ,1,University of Macau
+Malaysia,8,"Universiti Malaya (UM),
+Universiti Sains Malaysia (USM),
+Universiti Putra Malaysia (UPM), 
+Universiti Kebangsaan Malaysia (UKM) ,
+Universiti Teknologi Malaysia"
+Mexico,2,"Universidad Nacional Autonoma de Mexico (UNAM),
+Tecnologico de Monterrey"
+Netherlands,13,"Delft University of Technology, 
+University of Amsterdam,
+Utrecht University, 
+Eindhoven University of Technology, 
+Leiden University"
+New Zealand,8,"The University of Auckland, 
+University of Otago, 
+Massey University, 
+Victoria University of Wellington, 
+University of Waikato"
+Norway,3,"University of Oslo, 
+University of Bergen,
+Norwegian University of Science And Technology"
+Oman,1,Sultan Qaboos University
+Pakistan,2,"Quaid-i-Azam University,
+National University of Sciences And Technology (NUST) Islamabad "
+Peru,1,Pontificia Universidad Cat lica del Peru
+Philippines,1,University of the Philippines
+Poland,2,"University of Warsaw,
+Jagiellonian University "
+Portugal,5,"University of Porto, 
+University of Lisbon,
+University of Aveiro,
+University of Coimbra, 
+Universidade Nova de Lisboa"
+Qatar,2,"Qatar University, 
+Hamad Bin Khalifa University"
+Russia,11,"Lomonosov Moscow State University, 
+Saint Petersburg State University ,
+Bauman Moscow State Technical University,
+RUDN University ,
+Kazan (Volga region) Federal University"
+Saudi Arabia,3,"King Abdulaziz University (KAU) ,
+King Fahd University of Petroleum & Minerals ,
+King Saud University"
+Singapore,3,"National University of Singapore (NUS), 
+Nanyang Technological University, Singapore (NTU),
+Singapore University of Technology and Design "
+South Africa,5,"University of Cape Town, 
+University of Witwatersrand, 
+Stellenbosch University,
+University of Johannesburg,
+University of Pretoria"
+South Korea,14,"Seoul National University,
+KAIST - Korea Advanced Institute of Science & Technology,
+Yonsei University, 
+Korea University ,
+Pohang University of Science And Technology (POSTECH) "
+Spain,14,"Universitat Autonoma de Barcelona, 
+Universitat de Barcelona, 
+Complutense University of Madrid, 
+Universidad Autonoma de Madrid, 
+University of Navarra "
+Sweden,8,"KTH Royal Institute of Technology, 
+Lund University ,
+Uppsala University ,
+Stockholm University ,
+Chalmers University of Technology "
+Switzerland,9,"ETH Zurich - Swiss Federal Institute of Technology, 
+EPFL, 
+University of Zurich,
+University of Basel, 
+University of Bern "
+Taiwan,7,"National Taiwan University (NTU), 
+National Yang Ming Chiao Tung University ,
+National Cheng Kung University (NCKU) ,
+National Tsing Hua University,
+National Taiwan University of Science and Technology"
+Thailand,2,"Chulalongkorn University,
+Mahidol University"
+Turkey,3,"Middle East Technical University, 
+Istanbul Technical University, 
+Koc  University "
+United Arab Emirates,4,"Khalifa University of Science and Technology, 
+United Arab Emirates University,
+American University of Sharjah, 
+University of Sharjah "
+United Kingdom,49,"University of Cambridge,
+University of Oxford, 
+Imperial College London ,
+UCL, 
+The University of Edinburgh "
+United States of America,83,"Massachusetts Institute of Technology (MIT),
+Harvard University, 
+Stanford University,
+University of California, Berkeley (UCB), 
+University of Chicago "
