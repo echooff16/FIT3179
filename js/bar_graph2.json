@@ -96,13 +96,59 @@
       "filter": "Country_selection == null || datum.Name == Country_selection"
     }
   ],
-  "mark": {"type": "bar", "color": "#3a6af9"},
-  "encoding": {
-    "y": {"field": "Criteria", "type": "nominal", "title": "Criteria"},
-    "x": {
-      "field": "Score",
-      "type": "quantitative",
-      "title": "Score"
+  "layer": [
+    {
+      "mark": {"type": "bar", "color": "#3a6af9"},
+      "encoding": {
+        "y": {"field": "Criteria", "type": "nominal", "title": "Criteria"},
+        "x": {"field": "Score", "type": "quantitative", "title": "Score"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "bottom",
+        "dx": -10, 
+        "dy": -10, 
+        "fontSize": 20,
+        "color": "red"
+      },
+      "encoding": {
+        "x": {"value": 910},
+        "y": {"value": 400}, 
+        "text": {"field": "Total", "type": "quantitative", "format": ".1f"}  
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "bottom",  
+        "dx": -10, 
+        "dy": -20,  
+        "fontSize": 14 
+      },
+      "encoding": {
+        "x": {"value": 865},
+        "y": {"value": 390}, 
+        "text": {"value": "Average"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "bottom",  
+        "dx": -10, 
+        "dy": -20,  
+        "fontSize": 14 
+      },
+      "encoding": {
+        "x": {"value": 865},
+        "y": {"value": 410}, 
+        "text": {"value": "Score:"}
+      }
     }
-  }
+  ]
 }
