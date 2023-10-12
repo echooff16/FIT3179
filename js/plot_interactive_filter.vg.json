@@ -105,7 +105,6 @@
       "title": "Number of Students"
     },
     "tooltip": [
-      {"field": "Location", "title": "Country"},
       {"field": "Rank", "title": "Rank"},
       {"field": "Intl_stud_num", "title": "International Students"},
       {"field": "Teaching_Score", "title": "Teaching Score"},
