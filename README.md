@@ -16,7 +16,7 @@ Choosing a university abroad means comparing hundreds of institutions across doz
 
 ## Data preparation
 
-Ranking data for over 1,000 universities was sourced from [source, e.g. QS World University Rankings 2023] and cleaned using [tool, e.g. Python with pandas] to [e.g. standardise country names for map matching, handle missing values and convert student figures to numeric values].
+Ranking data for over 1,000 universities was sourced from [source, e.g. QS World University Rankings 2024] and cleaned using [tool, e.g. Python with pandas] to [e.g. standardise country names for map matching, handle missing values and convert student figures to numeric values].
 
 ## Tech stack
 
